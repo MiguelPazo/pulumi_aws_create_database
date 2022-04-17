@@ -1,0 +1,3 @@
+name: pulumi_aws_create_database
+runtime: nodejs
+description: script for create tables in dynamodb
